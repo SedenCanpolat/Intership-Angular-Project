@@ -185,5 +185,5 @@ src/app/
 │   └── university-routing.module.ts# Child route definitions
 └── app-routing.module.ts           # Root routing configuration
 ```
-````
+
 
