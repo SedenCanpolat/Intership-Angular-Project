@@ -6,7 +6,7 @@ You can find the PDF version of the report, which contains all the details of th
 
 ### 1. Authentication with Angular Signals
 
-Reactive front-end authentication implemented using **Angular Signals** for state tracking:
+Reactive front-end authentication implemented using Angular Signals for state tracking:
 
 ```typescript
 @Injectable({ providedIn: 'root' })
